@@ -1,3 +1,3 @@
-# Python-projects
+# Choose Your Own Adventure
 
-This will be all the beginner-friendly projects I work on while I learn Python.
+A beginner project I did in my freetime while learning Python.
